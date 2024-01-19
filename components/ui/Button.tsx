@@ -24,7 +24,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(({
                 py-3
                 disabled:cursor-not-allowed
                 disabled:opacity-50
-                tex-white
+                text-white
                 font-semibold
                 hover:opacity-75
                 transition
